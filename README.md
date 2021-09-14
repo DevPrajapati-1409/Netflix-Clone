@@ -1,3 +1,21 @@
+# Netflix Clone
+
+This is just a clone built as in a hobby, NO COMMERCIAL USE INTENDED.
+All Rights Are Not Reserved! Its just a demo
+
+## Live demo
+
+### <a href="https://netflix-5a16b.web.app/">Live Demo</a>
+
+## Table of Contents
+
+- [React]
+- [Material Ui Icons]
+- [Imdb]
+- [Live Pulling of Movies And Shows]
+- [Firebase]
+- [React Router]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
